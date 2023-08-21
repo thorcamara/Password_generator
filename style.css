@@ -130,6 +130,12 @@ body {
   opacity: 0.7;
 }
 
+.options .option input {
+  height: 16px;
+  width: 16px;
+  cursor: pointer;
+}
+
 .options .option label {
   cursor: pointer;
   color: #4f4f4f;
